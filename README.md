@@ -1,2 +1,55 @@
 ![Create React App](src/viwes/imagen/ISOTIPO.png).
 
+
+
+Pet places es una App mobile diseñada para dar solución en el contexto de la movilidad e inclusión en la ciudad de personas que presenten algún tipo de trastorno adaptativo y que necesiten estar acompañada constantemente de su mascota de contención emocional. 
+
+Pet places entregará en tiempo real lugares donde Antonia podrá asistir sin problemas con su compañero Silvestre.
+
+
+El desafío de este proyecto apuntaba a identificar necesidades que pudiesen tener las personas en el contexto de la inclusión y movilidad en la ciudad,  y proponer soluciones utilizando las APIs de Here.
+
+
+
+“ Muchas veces no quiero ir
+    a lugares donde no es 
+    aceptada ”
+
+
+“ Que sean incluidos en la vida ”
+
+
+“ Siento que más me ayudan 
+   con su amor incondicional ”
+   
+   
+Leer estas frases nos dan señales de algo, 
+nos están comunicando un dolor,, un anhelo
+ y una contención, todas textuales de personas
+ que entrevisté para desarrollar este proyecto. 
+
+Antonia es una de las personas que entrevisté y 
+ella presenta un trastorno adaptativo, donde habitualmente 
+puede tener un cuadro de ansiedad, una crisis de pánico o algún
+tipo de reacción emocional y/o conductual sin previo aviso, 
+resultando un problema poco entendido aún socialmente,
+ por lo mismo, generalmente ella decide no participar en 
+actividades que quisiera y decide quedarse en casa donde
+ se siente segura y en confianza.
+ 
+Los perros de asistencia emocional son piezas claves 
+para personas con este tipo de trastornos adaptativos, 
+actualmente están siendo “recetados” a pacientes que
+ tengan esta conexión con sus mascotas y que 
+efectivamente resulten una contención emocional para ellos. 
+
+Cada día se experimenta más con este tipo de terapia
+ y cada vez son más los pacientes que encuentran una 
+salida en ella, lamentablemente esta práctica no es parte
+ de la legalidad y no está incluída en aspectos de movilidad
+ e inclusión en la ciudad. 
+
+Por lo tanto, es aquí donde nosotras hacemos nuestra intervención y aporte a esta necesidad. Digo nosotras porque trabajé en conjunto con un  grupo de Desarrolladoras Front -End con quienes tuvimos la oportunidad de proyectar esta APP que entregará información de lugares en tiempo real donde Antonia podrá ir con Silvestre cuando ella quiera de forma segura para ambos. 
+
+El diseño de la APP tiene lineamientos que establecí en las primeras etapas de research y definición donde realicé entrevistas a usuarios, benchmark, user persona y customer journey map.
+
