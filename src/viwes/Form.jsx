@@ -26,7 +26,7 @@ class Form extends React.Component {
     handlePassword(event) {
         this.setState(
             { password: event.target.value });
-        console.log(this.state.email, 'ingresando clave')
+        console.log(this.state.password, 'ingresando clave')
     }
     // funcion que inicia la secion de usuario
     singInUser = () => {
@@ -76,7 +76,7 @@ class Form extends React.Component {
                         </div>
                         <button
                             type="button"
-                            className="btn btn-primar"
+                            className="btn btn-primary"
                             id="registrar"
                             onClick={this.singInUser}
                         >
